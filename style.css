@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+header{
+    background-image: linear-gradient(to right,#bbe7fa,#ffffff,#bbe7fa);
+    height: 400px;
+    font-family: Ribeye;
+font-size: 64px;
+font-weight: 400;
+line-height: 87.44px;
+
+}
+h2{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 400;
+line-height: 42.19px;
+text-align: left;
+
+}
+section{
+    display: block;
+}
+article{
+    display: block;
+   position: absolute;
+    width: 222px;
+height: 462px;
+top: 315px;
+left: 900px; 
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+border: 10px solid #2e268b;
+opacity: 0px;
+}
+p{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42.19px;
+    text-align: center;
+}
